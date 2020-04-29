@@ -1,0 +1,38 @@
+log4j.rootLogger=ALL,stdout,file,html
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target=System.out
+log4j.appender.stdout.Threshold=ALL
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%c %d %l %m %n
+
+log4j.appender.file=org.apache.log4j.FileAppender
+log4j.appender.file.File=logs/debug.log
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%c %d %l %m %n
+
+
+
+
+log4j.appender.file=org.apache.log4j.FileAppender
+log4j.appender.file.Threshold=error
+log4j.appender.file.File=logs/error.log
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%c %d %l %m %n
+
+
+
+
+log4j.appender.html=org.apache.log4j.FileAppender
+log4j.appender.html.File=logs/reports.html
+log4j.appender.html.layout=org.apache.log4j.PatternLayout
+log4j.appender.html.layout.ConversionPattern=%c %d %l %m %n
+
+
+
+
+
+
+
+
+

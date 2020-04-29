@@ -1,0 +1,27 @@
+2020-01-11 09:22:12,053 [           Loggersa.java:main:10] - hi
+2020-01-11 09:22:12,057 [           Loggersa.java:main:11] - hello
+2020-01-11 09:22:12,057 [           Loggersa.java:main:12] - error
+Loggersa 2020-01-11 09:37:00,296 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:37:00,302 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:37:00,303 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 09:38:13,714 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:38:13,717 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:38:13,718 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 09:40:34,002 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:40:34,002 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:40:34,007 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:40:34,008 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:40:34,008 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 09:40:34,009 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 09:52:02,460 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:52:02,467 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:52:02,468 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 09:52:54,817 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 09:52:54,821 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 09:52:54,822 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 22:33:03,424 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 22:33:03,444 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 22:33:03,445 Loggersa.main(Loggersa.java:12) error 
+Loggersa 2020-01-11 22:33:58,045 Loggersa.main(Loggersa.java:10) hi 
+Loggersa 2020-01-11 22:33:58,055 Loggersa.main(Loggersa.java:11) hello 
+Loggersa 2020-01-11 22:33:58,056 Loggersa.main(Loggersa.java:12) error 
